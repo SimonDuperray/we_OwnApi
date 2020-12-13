@@ -1,0 +1,16 @@
+{
+    "emopo": [
+        {
+            "date": "13-12-2020",
+            "tristesse": "noteT1",
+            "colere": "noteC1",
+            "joie": "noteJ1"
+        },
+        {
+            "date": "14-12-2020",
+            "tristesse": "noteT2",
+            "colere": "noteC2",
+            "joie": "noteJ2"
+        }
+    ]
+}
