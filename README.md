@@ -5,7 +5,7 @@
 * [ :computer: Technologies](#technologies)
 * [ :cd: Setup](#setup)
 
-## :page_facing_up: General info
+## :page_facing_up: General info [repo](https://github.com/SimonDuperray/we_OwnApi)
 Create my own API hosted with Heroku.
 	
 ## :computer: Technologies
