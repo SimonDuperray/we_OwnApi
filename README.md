@@ -1,9 +1,9 @@
 # My Own API
 
 ## :clipboard: Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [ :page_facing_up: General info](#general-info)
+* [ :computer: Technologies](#technologies)
+* [ :cd: Setup](#setup)
 
 ## :page_facing_up: General info
 Create my own API hosted with Heroku.
