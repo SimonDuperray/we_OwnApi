@@ -3,9 +3,9 @@
 [-> Repository](https://github.com/SimonDuperray/we_OwnApi)
 
 ## :clipboard: Table of contents
-* [ :page_facing_up: General info](#general-info)
-* [ :computer: Technologies](#Technologies)
-* [ :cd: Setup](#Setup)
+* [General info](#general-info)
+* [Technologies](#Technologies)
+* [Setup](#Setup)
 
 ## :page_facing_up: General info
 Create my own API hosted with Heroku.<br><br>
@@ -25,5 +25,5 @@ $ git clone https://github.com/SimonDuperray/we_OwnApi.git
 You can access to the API via the link gave by Heroku or localy with
 ```bat
 $ npm install- g json-server
-$ json-server --watch db.jso
+$ json-server --watch db.json
 ```
