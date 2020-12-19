@@ -17,3 +17,7 @@ Chrono_Background is created with:
 
 ## :cd: Setup
 https://www.youtube.com/watch?v=FLnxgSZ0DG4&ab_channel=CodewithAniaKub%C3%B3w
+You can clone the repository:
+```bat
+$ git clone https://github.com/SimonDuperray/we_OwnApi.git
+```
