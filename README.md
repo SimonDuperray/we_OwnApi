@@ -1,11 +1,13 @@
 # My Own API
 
-## :clipboard: Table of contents
-* [ :page_facing_up: General info](#general-info)
-* [ :computer: Technologies](#technologies)
-* [ :cd: Setup](#setup)
+[Repository](https://github.com/SimonDuperray/we_OwnApi)
 
-## :page_facing_up: General info [repo](https://github.com/SimonDuperray/we_OwnApi)
+## :clipboard: Table of contents
+* [ :page_facing_up: General info](# :page_facing_up: general-info)
+* [ :computer: Technologies](# :computer: Technologies)
+* [ :cd: Setup](# :cd: Setup)
+
+## :page_facing_up: General info
 Create my own API hosted with Heroku.
 	
 ## :computer: Technologies
